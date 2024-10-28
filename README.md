@@ -27,7 +27,7 @@ Currently on the lookout for opportunities to channel my skills and ingenuity in
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=KhareV&show_icons=true&theme=vision-friendly-dark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeer555&layout=compact&langs_count=7&theme=friendly-dark" alt="Top Languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhareV&layout=compact&langs_count=7&theme=Radiant" alt="Top Languages">
 </p>
  
 
