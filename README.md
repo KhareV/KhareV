@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/KhareV/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KhareV&theme=onedark)](https://github.com/KhareV/github-profile-trophy)
   
 ### About Me:    
 Passionate about the convergence of technology and creativity, I am an aspiring Computer Science student propelled by an insatiable curiosity to explore and innovate. Equipped with expertise in programming languages like C, C++, JavaScript, Java and Python, alongside hands-on familiarity with database management systems such as MySQL and MongoDB, and Web Development Frameworks such as React, Vue, Redux, Next, Nuxt, Strapi, Three.js and some experience in React Native,  I thrive in dynamic and challenging environments.
